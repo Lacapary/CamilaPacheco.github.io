@@ -1,28 +1,25 @@
-name: "L. Camila Pacheco Riaño"                                # CHANGE HERE 
+name: "L. Camila Pacheco Riaño" 
 output_dir: "."
 navbar:
-  title: "L. Camila Pacheco Riaño"                             # CHANGE HERE 
+  title: "L. Camila Pacheco Riaño"                               
   type: inverse
   left:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
-    - text: "About"
+    - text: " About"
       icon: fa-user 
       href: about.html
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html
     - text: "Blog"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: https://lacapary.github.io/blog/ 
   right:
-    - text: "Contact me"
+    - text: "Email"
       icon: fa-envelope-o
-      href: mailto:Laura.PachecoRiano@uib.no                    # CHANGE HERE 
-    - text: "GitHub"
+      href: mailto:lc.pacheco27@gmail.com                      
+    - text: ""
       icon: fa-github
-      href: https://github.com/Lacapary       # CHANGE HERE 
+      href: https://github.com/lacapary
+    - text: ""
+      icon: fa-twitter
+      href: https://www.twitter.com/lacapary
 output:
   html_document:
     theme: cosmo
