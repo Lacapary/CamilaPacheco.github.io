@@ -22,5 +22,6 @@ navbar:
       href: https://www.twitter.com/lacapary
 output:
   html_document:
+    css: styles.css
     theme: cosmo
     highlight: textmate
