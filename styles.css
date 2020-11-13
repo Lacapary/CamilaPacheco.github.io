@@ -5,3 +5,7 @@ html,body        {height:100%;}
 }
 html, a {color: #820257}
       a:hover, a:focus{color:#C71074;text-decoration:underline}
+
+.blockquote {
+  font-style: italic
+}

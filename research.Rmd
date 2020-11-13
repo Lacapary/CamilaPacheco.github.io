@@ -2,4 +2,48 @@
 title: "Research"
 ---
 
-## Soon
+<details>
+<summary>Projects</summary>
+<ul>
+<li> Lags in the responses of species assemblages to climate  change. </li>
+<li> Ecological Consortium on Resurvey Data   [ECKO](https://ecko.uib.no/) </li>
+  
+</details>
+
+<details>
+<summary>Publications</summary>
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=EsZhToUAAAAJ) | [ORCID](https://orcid.org/0000-0002-8539-4816)
+<ul>
+Soon
+</details>
+
+<details>
+<summary>Conference Presentations</summary>
+<ul>
+<li> **Niche Modeling and coexistence of the Pacarana (D. branickii) and the Mountain paca (C.  taczanowskii) in Colombia ** 
+<span style="color:#C4C2C4"> Modelación de nicho ecológico y área de coexistencia de la guagua loba (D. branickii) y del tinajo de páramo (C. taczanowskii) en Colombia </span>. Conference talk at II Congreso Colombiano y III Congreso Latinoamericano de Mastozoología. Dec 2015. </li>
+
+<li> **Preliminary results of the potential distribution of porcupines genus Coendou (Rodentia: Erethizontidae) in Colombia. ** 
+<span style="color:#C4C2C4"> Resultados preliminares del modelamiento de distribución de diferentes especies de puercoespines del género Coendou(Rodentia: Erethizontidae) en Colombia </span>. Conference talk at II Congreso Colombiano y III Congreso Latinoamericano de Mastozoología. Dec 2015. </li>
+
+</details>
+
+<details>
+<summary>Database</summary>
+Soon
+</details>
+
+<details>
+<summary>Posters</summary>
+Soon
+</details>
+
+<details>
+<summary>Technical Report</summary>
+<ul>
+<li>**Colombian Ecosystems Red List (Vers.2.0)**
+<span style="color:#C4C2C4">Lista Roja de Ecosistemas de Colombia (Vers.2.0).</span> [link](https://doi.org/10.13140/rg.2.2.10861.08165)
+</li>
+</details>
+
+
