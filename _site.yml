@@ -7,6 +7,9 @@ navbar:
     - text: " About"
       icon: fa-user 
       href: about.html
+    - text: "Research"
+      icon: fa-pagelines
+      href: research.html
     - text: "Blog"
       icon: fa-rss
       href: https://lacapary.github.io/blog/ 
@@ -25,3 +28,4 @@ output:
     css: styles.css
     theme: cosmo
     highlight: textmate
+    
