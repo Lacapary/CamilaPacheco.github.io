@@ -4,23 +4,30 @@ title: "Research"
 
 Here are some of my current activities and former research activities
 
-### Lags in the responses of species assemblages to climate  change
 
-*Supervised by: [John Arvid Grytnes](https://www.researchgate.net/profile/John_Arvid_Grytnes),* *[Suzette Flantua](https://www.researchgate.net/profile/Suzette_Flantua)* and *[Fride Høistad Schei](https://www.researchgate.net/profile/Fride_Schei)*  
-```{r, out.width = "20%", echo = FALSE}
-knitr::include_graphics("media/research_1.jpg")
-```
-<details>
-<summary>Projects</summary>
+<img  src="media/research_1.jpg" width="30%" style="float:right; margin-left:25px" />
+**Lags in the responses of species assemblages to climate  change**   
+*Supervised by: [John Arvid Grytnes](https://www.researchgate.net/profile/John_Arvid_Grytnes),*       *[Suzette Flantua](https://www.researchgate.net/profile/Suzette_Flantua)* and *[Fride Høistad         Schei](https://www.researchgate.net/profile/Fride_Schei)*
+    
+
+### Active Projects
 <ul>
 <li> Lags in the responses of species assemblages to climate  change. </li>
-<li> Ecological Consortium on Resurvey Data   [ECKO](https://ecko.uib.no/) </li>
+<li> Ecological Consortium on Resurvey Data [ECKO](https://ecko.uib.no/) </li>
   
-</details>
-<details>
-<summary>Database</summary>
+
+### Former Projects
+<ul>
+<li> Assessing the impact of fragmentation on plant dispersal in Andean mountains. Royal Botanical Gardens (KEW).</li>
+<li> Patterns Changes of Land Use/Cover over Time in Río Grande, River Watershed—Spain: Intensification of the Irrigated Agriculture. </li>  <img src="media/water_spain.png"  width="50%" /> 
+<li> Local and regional distribution of the wolf guagua ( Dinomys branickii ) and the páramo jar ( Cuniculus taczanowskii ) </li>
+<li> Conservation status of Porcupines in Colombia and the Santa Marta Tree Mouse </li>
+<li> Colombian Ecosystems Red List (Version 2.0). [link](https://www.researchgate.net/profile/Andres_Etter/publication/319913937_Lista_Roja_de_Ecosistemas_de_Colombia_Vers20/links/59c163b1aca272295a09a881/Lista-Roja-de-Ecosistemas-de-Colombia-Vers20.pdf?origin=publication_detail) </li> <img src="media/red_list.png"  width="30%" /> 
+
+
+### Database
+<ul>
 Soon
-</details>
 
 
 
