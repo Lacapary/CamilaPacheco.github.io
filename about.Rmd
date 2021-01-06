@@ -8,7 +8,7 @@ knitr::include_graphics("media/me.jpg")
  
 I am a global change ecologist and biogeographer, currently doing a Ph.D. in Global Change Ecology in the [EECRG](https://www.uib.no/en/rg/EECRG) group at the [University of Bergen](https://www.uib.no/en/bio).  
 
-Born and raised in Colombia, I grew up surrounded by diverse landscapes and ecosystems. Such life experiences fostered a curiosity that pushed me to study ecology as a science. Sadly, I have also experienced close hand how climate change and human alterations have become a risk towards biodiversity. Influence by these, my academic goal is to understand the fundamental patterns and mechanisms contributing to biodiversity change. 
+Born and raised in Colombia, I grew up surrounded by diverse landscapes and ecosystems. Such life experiences encouraged a curiosity that pushed me to study ecology as a science. Unfortunately, I have also experienced close hand how climate change and human activities have become a risk for biodiversity. Influence by these, my academic goal is to understand the underlying patterns and processes contributing to biodiversity change. 
 
 As a computational ecology, I apply analytical and mechanistic modeling approaches to understand the processes better shaping biodiversity's distribution across space and time.
 Most of my work has dealt with the Neo-tropics, but I also have experience in Alpine and Mediterranean ecosystems.
