@@ -15,7 +15,3 @@ Here you can find information about some of my research interests and ongoing pr
 Feel free to get in touch if you have any questions or are interested in working together.
 
 **This website is under construction.**
-```{r}
-#remotes::install_github("rstudio/rmarkdown#1994")
-```
-
