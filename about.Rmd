@@ -2,7 +2,7 @@
 title: "About me"
 ---
 ```{r, out.width = "100%", echo = FALSE, fig.align='center'}
-knitr::include_graphics("media/me.jpg")
+knitr::include_graphics("media/me.jpg")#remotes::install_github("rstudio/rmarkdown#1994")
 ```
 
  
