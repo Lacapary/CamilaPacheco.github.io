@@ -13,7 +13,7 @@ Born and raised in Colombia, I grew up surrounded by diverse landscapes and ecos
 As a computational ecology, I apply analytical and mechanistic modeling approaches to understand the processes better shaping biodiversity's distribution across space and time.
 Most of my work has dealt with the Neo-tropics, but I also have experience in Alpine and Mediterranean ecosystems.
 
-I am passionate about data visualization and communicating science to a broader audience, and I talk about wilds life conservation.
+I am passionate about data visualization and communicating science to a broader audience, and wilds life conservation.
 
 My research activity is structured around five main lines:  
 
